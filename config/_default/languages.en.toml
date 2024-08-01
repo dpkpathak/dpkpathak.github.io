@@ -20,12 +20,12 @@ headline = "AI Researcher @ DFKI"
 bio = "I am passionate about machine learning and its practical applications."
 links = [
   { github = "https://github.com/dpkpathak" },
-  { email = "mailto:deepak_kumar.pathak@dfki.de" },
   { linkedin = "https://linkedin.com/in/deepakpathak0892" },
-  { orcid = "https://orcid.org/0009-0004-4105-0466" },
+  { google-scholar = "https://scholar.google.com/citations?user=m-EMVlIAAAAJ" },
   { x-twitter = "https://x.com/_deepakpathak_" },
-  { link = "https://scholar.google.com/citations?view_op=list_works&hl=en&user=m-EMVlIAAAAJ" },
-  # { google = "https://www.google.com/" },
+  { email = "mailto:deepak_kumar.pathak@dfki.de" },
+  # { orcid = "https://orcid.org/0009-0004-4105-0466" },
+  #     { google = "https://www.google.com/" },
   #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #     { apple = "https://www.apple.com" },
   #     { blogger = "https://username.blogspot.com/" },
