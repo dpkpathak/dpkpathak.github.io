@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LLM | Deepak Pathak</title><link>https://dpkpathak.github.io/tags/llm/</link><atom:link href="https://dpkpathak.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml"/><description>LLM</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://dpkpathak.github.io/media/icon_hu_da05098ef60dc2e7.png</url><title>LLM</title><link>https://dpkpathak.github.io/tags/llm/</link></image><item><title>Privacy Auditing for ML Models and LLMs</title><link>https://dpkpathak.github.io/projects/privacy-auditing-ml/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://dpkpathak.github.io/projects/privacy-auditing-ml/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Developing practical frameworks for evaluating privacy risks in deployed ML systems — moving from abstract concerns to concrete evaluation and mitigation workflows. Part of DFKI&amp;rsquo;s MissionKI project.&lt;/p&gt;
+&lt;h2 id="research-focus"&gt;Research Focus&lt;/h2&gt;
+&lt;h3 id="membership-inference-attacks"&gt;Membership Inference Attacks&lt;/h3&gt;
+&lt;p&gt;Assessing whether models leak information about their training data — critical for healthcare, financial, and other sensitive domains.&lt;/p&gt;
+&lt;h3 id="model-inversion-risk-analysis"&gt;Model Inversion Risk Analysis&lt;/h3&gt;
+&lt;p&gt;Evaluating the risk of reconstructing sensitive training data from model outputs or gradients.&lt;/p&gt;
+&lt;h3 id="domain-specific-llm-auditing"&gt;Domain-Specific LLM Auditing&lt;/h3&gt;
+&lt;p&gt;Fine-tuning and auditing LLMs in specialized domains (healthcare AI) with privacy compliance requirements under the EU AI Act.&lt;/p&gt;
+&lt;h2 id="technical-approach"&gt;Technical Approach&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Automated evaluation pipelines for privacy metrics&lt;/li&gt;
+&lt;li&gt;Risk scoring and threshold-based alerting&lt;/li&gt;
+&lt;li&gt;Integration with model lifecycle management&lt;/li&gt;
+&lt;li&gt;Compliance documentation workflows for regulatory requirements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="impact"&gt;Impact&lt;/h2&gt;
+&lt;p&gt;Supporting trustworthy AI deployment in high-stakes domains where privacy guarantees are not optional.&lt;/p&gt;</description></item></channel></rss>
